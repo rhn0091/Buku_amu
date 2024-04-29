@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDd2z4m8TQB6R3wDvpUEv9QI3Sgue1aM1M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1039191439724</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cobaFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>bukutamu-33cd3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bukutamu-33cd3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1039191439724:ios:c0c5afa8a9d90174d91b49</string>
+</dict>
+</plist>
